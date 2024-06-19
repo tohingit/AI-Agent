@@ -18,3 +18,18 @@ This project contains a Tic-Tac-Toe game with an AI agent implemented using the 
    ```bash
    git clone https://github.com/ваш_пользователь/tic-tac-toe-ai.git
    cd tic-tac-toe-ai
+
+# Usage
+Run the game using the following command:
+
+
+python tic_tac_toe.py
+
+# Testing
+Run the tests using the following command:
+
+
+python -m unittest discover tests
+
+#License
+This project is licensed under the MIT License - see the LICENSE file for details.
